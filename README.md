@@ -12,3 +12,7 @@ The program utilizes NumPy for computations, and PyPlot for a couple simple visu
   * Demo.py: a script that demonstrates the neural network
   
   * digits.csv: the Digits dataset saved from sklearn
+  
+### Build instructions
+
+First run `Transform.py` to transform the data into something more suitable, and run with `Demo.py`, which also contains hyperparameters to tinker with.
